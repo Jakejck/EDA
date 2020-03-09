@@ -12,5 +12,7 @@
 > 4. 哪些导演的电影的票房比较高？
 
 
-> 具体内容可以参见 "investigate movies dataset.ipynb"
+> 具体内容可以参见 "investigate movies dataset.ipynb" 。 
+
+若加载该文件失败，可以访问这个网站：https://nbviewer.jupyter.org/ ，把github上对应的文件的url输进去，就可以在线渲染jupyter文件了。
 
